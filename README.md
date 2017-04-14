@@ -27,7 +27,7 @@ Specify formatter in command line options
 Or write .rspec it.
 
 ```text:.rspec
---format pec::Formatter::DocumentationTravisCIFormatter
+--format RSpec::Formatter::DocumentationTravisCIFormatter
 ```
 
 ## Contributing
